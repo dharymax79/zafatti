@@ -1,0 +1,6 @@
+{
+  "name": "زفاتي - زفات وأفراح مخصصة",
+  "description": "موقع زفاتي لتصميم وتنفيذ زفات وموسيقى الأعراس والمناسبات بالأسماء مع لوحة تحكم كاملة لإدارة الطلبات والأغاني",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
